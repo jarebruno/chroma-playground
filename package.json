@@ -1,0 +1,20 @@
+{
+  "name": "chroma-playground",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "ingest": "bun run src/ingest.ts",
+    "query": "bun run src/query.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@chroma-core/openai": "^0.1.7",
+    "chromadb": "^3.1.1"
+  }
+}

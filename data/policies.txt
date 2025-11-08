@@ -1,0 +1,100 @@
+Policy 1: Items may be returned within 30 days of purchase with the original receipt or proof of purchase.
+Policy 2: Products must be in new or like-new condition, including original packaging, manuals, and accessories.
+Policy 3: Returns are not accepted for software, digital downloads, and subscription services once activated.
+Policy 4: Returns are not accepted for opened headphones, earbuds, or personal care electronics for hygiene reasons.
+Policy 5: Returns are not accepted for gift cards.
+Policy 6: Refunds will be issued to the original payment method.
+Policy 7: Refunds may take 5–7 business days to process after approval.
+Policy 8: Purchases made with a gift card will be refunded to a store gift card.
+Policy 9: Defective or damaged items may be exchanged for the same model within 30 days of purchase.
+Policy 10: If the same model is unavailable, a refund or store credit may be offered.
+Policy 11: Items purchased online can be returned by mail or in-store.
+Policy 12: Customers are responsible for return shipping costs unless the item is defective or incorrect.
+Policy 13: A return authorization must be obtained by contacting support@techstore.com before mailing a return.
+Policy 14: A 15% restocking fee may apply to opened laptops, tablets, and monitors unless defective.
+Policy 15: Products under manufacturer warranty must follow the manufacturer's warranty process.
+Policy 16: Extended warranty plans are subject to the terms stated at the time of purchase.
+Policy 17: Clearance and final sale items cannot be returned or exchanged.
+Policy 18: Returned products are subject to inspection before a refund is issued.
+Policy 19: If the return is denied, the customer will be notified and the item returned to them.
+Policy 20: Refunds for online purchases include the product price but exclude shipping fees.
+Policy 21: In-store purchases must be returned to a physical store location.
+Policy 22: Proof of purchase is required for all returns and exchanges.
+Policy 23: The original form of payment must be present for debit or credit refunds.
+Policy 24: Store credit may be issued at our discretion for returns without receipts.
+Policy 25: Exchanges are processed as a return and repurchase of the new item.
+Policy 26: Return requests outside the 30-day window will not be accepted.
+Policy 27: Items damaged by misuse or neglect are not eligible for return.
+Policy 28: Customers must back up personal data before returning devices for repair or refund.
+Policy 29: Data loss is not the responsibility of Tech Store.
+Policy 30: Online order refunds will be credited once the returned item is received and inspected.
+Policy 31: Defective items may qualify for free replacement shipping.
+Policy 32: Promotional bundles must be returned in full for a complete refund.
+Policy 33: Partial returns on bundle deals will be refunded at the discounted rate.
+Policy 34: Gift receipts allow exchange or store credit only.
+Policy 35: Accessories sold with devices must be returned together.
+Policy 36: Used items sold under 'open box' conditions are final sale.
+Policy 37: Special-order products may be subject to separate return terms.
+Policy 38: International purchases must follow local return guidelines.
+Policy 39: Returns on financing purchases may affect your payment schedule.
+Policy 40: Custom-built computers are non-refundable once assembled.
+Policy 41: Warranty claims are handled directly by the manufacturer unless stated otherwise.
+Policy 42: Refunds are not issued for installation or setup services.
+Policy 43: Price adjustments are available within 14 days of purchase if the product goes on sale.
+Policy 44: Items damaged in transit must be reported within 48 hours of delivery.
+Policy 45: Returns shipped without authorization may be refused.
+Policy 46: Tech Store reserves the right to deny any return deemed fraudulent or abusive.
+Policy 47: Returned products must include all promotional gifts and accessories.
+Policy 48: Store credits expire after 12 months from the issue date.
+Policy 49: Online return shipping labels can be requested via support@techstore.com.
+Policy 50: Refund confirmations will be sent via email once processed.
+Policy 51: Items may be returned within 30 days of purchase with the original receipt or proof of purchase.
+Policy 52: Products must be in new or like-new condition, including original packaging, manuals, and accessories.
+Policy 53: Returns are not accepted for software, digital downloads, and subscription services once activated.
+Policy 54: Returns are not accepted for opened headphones, earbuds, or personal care electronics for hygiene reasons.
+Policy 55: Returns are not accepted for gift cards.
+Policy 56: Refunds will be issued to the original payment method.
+Policy 57: Refunds may take 5–7 business days to process after approval.
+Policy 58: Purchases made with a gift card will be refunded to a store gift card.
+Policy 59: Defective or damaged items may be exchanged for the same model within 30 days of purchase.
+Policy 60: If the same model is unavailable, a refund or store credit may be offered.
+Policy 61: Items purchased online can be returned by mail or in-store.
+Policy 62: Customers are responsible for return shipping costs unless the item is defective or incorrect.
+Policy 63: A return authorization must be obtained by contacting support@techstore.com before mailing a return.
+Policy 64: A 15% restocking fee may apply to opened laptops, tablets, and monitors unless defective.
+Policy 65: Products under manufacturer warranty must follow the manufacturer's warranty process.
+Policy 66: Extended warranty plans are subject to the terms stated at the time of purchase.
+Policy 67: Clearance and final sale items cannot be returned or exchanged.
+Policy 68: Returned products are subject to inspection before a refund is issued.
+Policy 69: If the return is denied, the customer will be notified and the item returned to them.
+Policy 70: Refunds for online purchases include the product price but exclude shipping fees.
+Policy 71: In-store purchases must be returned to a physical store location.
+Policy 72: Proof of purchase is required for all returns and exchanges.
+Policy 73: The original form of payment must be present for debit or credit refunds.
+Policy 74: Store credit may be issued at our discretion for returns without receipts.
+Policy 75: Exchanges are processed as a return and repurchase of the new item.
+Policy 76: Return requests outside the 30-day window will not be accepted.
+Policy 77: Items damaged by misuse or neglect are not eligible for return.
+Policy 78: Customers must back up personal data before returning devices for repair or refund.
+Policy 79: Data loss is not the responsibility of Tech Store.
+Policy 80: Online order refunds will be credited once the returned item is received and inspected.
+Policy 81: Defective items may qualify for free replacement shipping.
+Policy 82: Promotional bundles must be returned in full for a complete refund.
+Policy 83: Partial returns on bundle deals will be refunded at the discounted rate.
+Policy 84: Gift receipts allow exchange or store credit only.
+Policy 85: Accessories sold with devices must be returned together.
+Policy 86: Used items sold under 'open box' conditions are final sale.
+Policy 87: Special-order products may be subject to separate return terms.
+Policy 88: International purchases must follow local return guidelines.
+Policy 89: Returns on financing purchases may affect your payment schedule.
+Policy 90: Custom-built computers are non-refundable once assembled.
+Policy 91: Warranty claims are handled directly by the manufacturer unless stated otherwise.
+Policy 92: Refunds are not issued for installation or setup services.
+Policy 93: Price adjustments are available within 14 days of purchase if the product goes on sale.
+Policy 94: Items damaged in transit must be reported within 48 hours of delivery.
+Policy 95: Returns shipped without authorization may be refused.
+Policy 96: Tech Store reserves the right to deny any return deemed fraudulent or abusive.
+Policy 97: Returned products must include all promotional gifts and accessories.
+Policy 98: Store credits expire after 12 months from the issue date.
+Policy 99: Online return shipping labels can be requested via support@techstore.com.
+Policy 100: Refund confirmations will be sent via email once processed.
