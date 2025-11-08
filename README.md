@@ -22,12 +22,22 @@ minikube start
 kubectl apply -k infra/
 ```
 
+
 ### 2. Configure the environment variables
 
 Copy the `.env.template` file and set the environment variables with your own
 
 
-### 3. Ingest the data
+### 3. Configure the environment variables
+
+Install dependencies
+
+```sh
+bun install
+```
+
+
+### 4. Ingest the data
 
 The chroma database must be ingested first with the policies defined in the `data` folder. To achieve that, execute the `ingest.ts` file with
 
@@ -35,7 +45,8 @@ The chroma database must be ingested first with the policies defined in the `dat
 bun run ingest
 ```
 
-### 4. Query the data
+
+### 5. Query the data
 
 To get the most semantic related item to a custom prompt, execute the `query` file with
 
