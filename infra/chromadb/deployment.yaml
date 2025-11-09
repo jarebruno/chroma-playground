@@ -13,13 +13,20 @@ spec:
       labels:
         app: chromadb
     spec:
-      volumes:
-        - name: app-storage
-          persistentVolumeClaim:
-            claimName: chromadb-volume-claim
       containers:
         - name: chromadb
           image: chromadb/chroma
           volumeMounts:
             - name: app-storage
               mountPath: /data
+          resources:
+            requests: 
+              cpu: "100m"
+              memory: "128Mi"
+            limits:
+              cpu: "300m"
+              memory: "256Mi"
+      volumes:
+        - name: app-storage
+          persistentVolumeClaim:
+            claimName: chromadb-volume-claim
