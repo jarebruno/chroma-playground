@@ -4,6 +4,7 @@ metadata:
   name: chromadb-service
   namespace: lanflo-01
 spec:
+  type: LoadBalancer
   selector:
     app: chromadb
   ports:

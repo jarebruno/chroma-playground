@@ -22,6 +22,11 @@ minikube start
 kubectl apply -k infra/
 ```
 
+To assign an IP to the the service and expose it locally
+
+```sh
+minikube tunnel
+```
 
 ### 2. Configure the environment variables
 
